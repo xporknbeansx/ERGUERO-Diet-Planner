@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="saveButton" type="id" />
+    <item name="mealTypeLabel" type="id" />
+    <item name="mealTypeEditText" type="id" />
+    <item name="ingredientsLabel" type="id" />
+    <item name="ingredientsEditText" type="id" />
+    <item name="nutritionalValuesLabel" type="id" />
+    <item name="nutritionalValuesEditText" type="id" />
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Erguero-Finalproject</string>
+    <string name="save">Save</string>
+    <string name="enter_nutritional_values_e_g_calories_300_protein_20g_carbs_30g_fats_10g">Enter nutritional values (e.g., Calories: 300, Protein: 20g, Carbs: 30g, Fats: 10g)</string>
+    <string name="nutritional_values">Nutritional Values:</string>
+    <string name="enter_ingredients_comma_separated">Enter ingredients (comma-separated)</string>
+    <string name="meal_type">Meal Type:</string>
+    <string name="enter_meal_type_e_g_breakfast">Enter meal type (e.g., Breakfast)</string>
+    <string name="ingredients">Ingredients:</string>
+</resources>
